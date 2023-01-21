@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habits é um app para ajudar a rastrear os hábitos.
+Site feito por um otaku, visite o projetin.
 
 - [Visite o projeto online](https://onibakawaiiaya.github.io/Habitts-2023/)
 
